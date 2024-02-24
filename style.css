@@ -1,0 +1,74 @@
+body{
+  background-image: url('img/Background.jpg');
+  background-repeat: no-repeat;
+  width:1920px;
+  height:1080px;
+}
+
+.container{
+  margin:auto;
+  margin-top: 40px;
+  width:1200px;
+  height:900px;
+  background-color:rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  padding-left: 20px;
+}
+
+.content-box{
+  padding-left:20px;
+}
+
+.logo-text{
+  text-align: center;
+  margin-top: 40px;
+  padding-top: 20px;
+}
+
+.logo{
+  width:250px;
+}
+
+h1{
+  color: #0fe20f;
+  font-size:30px;
+}
+
+.pulsante{
+  width:800px;
+  height:40px;
+  background-color:#0fe20f;
+  text-align: center;
+  box-sizing: border-box;
+  padding:10px;
+
+
+  }
+  #name-shop{
+    font-size: 30px;
+  }
+
+  .state-orange{
+    width:250px;
+    height:20px;
+    background-color: orange;
+    border-radius:5px;
+  }
+
+main{
+  color:white;
+}
+
+.state-green {
+    width: 450px;
+    height: 20px;
+    background-color: green;
+    border-radius: 5px;
+}
+
+.state-red {
+    width: 100px;
+    height: 20px;
+    background-color: red;
+    border-radius: 5px;
+}
